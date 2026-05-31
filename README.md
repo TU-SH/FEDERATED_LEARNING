@@ -8,3 +8,9 @@
 |Konečný et al. |Federated optimization: Distributed machine learning for on-device intelligence| 2016|https://arxiv.org/pdf/1610.02527|Formalises the federated optimisation problem      |
 |         |       |     |      |       |
 |         |       |     |      |       |
+
+
+
+## Surveys
+
+##
