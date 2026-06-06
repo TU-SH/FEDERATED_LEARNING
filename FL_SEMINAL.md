@@ -6,7 +6,7 @@
   
 - Konečný et al. (2016): Federated optimization: Distributed machine learning for on-device intelligence (https://arxiv.org/pdf/1610.02527) - Formalises the federated optimisation problem
 
-- Yurdem et al. (2024): Federated learning: Overview, strategies, applications, tools andfuture directions (https://www.sciencedirect.com/science/article/pii/S2405844024141680) - reviews FL categorisation (VFL, HFL), algorithms and there comparison, security concerns, FL applications, frameworks and tools, opportunities, challenges and future directions. 
+
 
 
 
