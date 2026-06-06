@@ -1,7 +1,6 @@
 # FEDERATED LEARNING RESEARCH ARTICLES
 
 - Mcmahan et al. (2017): Communication-Efficient Learning of Deep Networks from Decentralized Data (https://arxiv.org/pdf/1602.05629)
-
   Introduces Federated learning
 - 
 | Konečný et al.|Federated learning: Strategies for improving communication efficiency|2016|https://arxiv.org/pdf/1610.05492  | Proposes structured and sketched update compression techniques to reduce federated learning uplink communication costs|
