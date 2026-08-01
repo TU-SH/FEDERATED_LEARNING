@@ -1,4 +1,4 @@
-# FL SEMINAL ARTICLES
+# FL SEMINAL
 
 - Mcmahan et al. (2017): Communication-Efficient Learning of Deep Networks from Decentralized Data (https://arxiv.org/pdf/1602.05629) - Introduces Federated learning
 
